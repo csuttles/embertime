@@ -3,6 +3,8 @@
 This README outlines the details of collaborating on this Ember application.
 This is really just me playing around with [a tutorial for ember on netlify](https://www.netlify.com/blog/2015/11/24/a-step-by-step-guide-ember-on-netlify/)
 
+If you like computers, check out [my blog](https://blog.csuttles.io)
+
 ## Prerequisites
 
 You will need the following things properly installed on your computer.
