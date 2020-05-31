@@ -1,7 +1,7 @@
 # embertime
 
 This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+This is really just me playing around with [a tutorial for ember on netlify](https://www.netlify.com/blog/2015/11/24/a-step-by-step-guide-ember-on-netlify/)
 
 ## Prerequisites
 
